@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutduy5623&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Random Dev Meme
-<img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif"/>
+<img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nhutduy5623&icon=0&color=0)](https://visitcount.itsvg.in)
