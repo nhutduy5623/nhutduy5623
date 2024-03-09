@@ -60,7 +60,7 @@
 
 			<div class="container" style="flex:10">
 				<div class="greeting"
-					style="flex:5; text-align: center; align-items:center; display: flex">
+					style="flex:4; text-align: center; align-items:center; display: flex">
 					<span class="greetingText" style="margin:50% auto; text-align: center">Hi! <br />
 						I'm Nhut Duy.</span>
 				</div>
