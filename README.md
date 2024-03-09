@@ -1,4 +1,3 @@
-# Nhựt Duy
 <img src="titleSvg.svg"/>
 
 ## Socials
