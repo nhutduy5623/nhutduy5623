@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutduy5623&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://media0.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif?cid=6c09b952ysc8wo3yyj0h8t43vrxc2i3qa60tdx858gnjl2xn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)https://media0.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif?cid=6c09b952ysc8wo3yyj0h8t43vrxc2i3qa60tdx858gnjl2xn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="512px"/>
+<img src="https://media0.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif?cid=6c09b952ysc8wo3yyj0h8t43vrxc2i3qa60tdx858gnjl2xn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nhutduy5623&icon=0&color=0)](https://visitcount.itsvg.in)
