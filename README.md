@@ -17,16 +17,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutduy5623&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Dev Meme :
-<div style="display: flex; flex-direction: row;  justify-content: space-between;">
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>  
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
-  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="100px"/>
+<div style="display: flex; flex-direction: row;  justify-content: space-between; width='100%'">
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>  
+  <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif" width="10%"/>
 </div>
 
 
