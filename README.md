@@ -1,7 +1,6 @@
 ## Nhựt Duy
 <img src="titleSvg.svg"/>
 ## Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lnd26/)]
 
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutduy5623&repo=WebsiteTinTuc-JavaServlet-JDBC&theme=codeSTACKr)](https://github.com/nhutduy5623/WebsiteTinTuc-JavaServlet-JDBC)
