@@ -3,7 +3,7 @@
 ## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lnd26/) 
 
-## My Project
+## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutduy5623&repo=WebsiteTinTuc-JavaServlet-JDBC&theme=codeSTACKr)](https://github.com/nhutduy5623/WebsiteTinTuc-JavaServlet-JDBC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutduy5623&repo=WebsiteBanHang-PHP&theme=codeSTACKr)](https://github.com/nhutduy5623/WebsiteBanHang-PHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nhutduy5623&repo=WebsiteBanNhacCu-JavaServlet-JPA&theme=codeSTACKr)](https://github.com/nhutduy5623/WebsiteBanNhacCu-JavaServlet-JPA)
