@@ -16,7 +16,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nhutduy5623&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhutduy5623&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Random Dev Meme
 <img src="https://i.pinimg.com/originals/7f/d3/ea/7fd3eac8b59a87c856febc5135f457f7.gif"/>
 
 ---
