@@ -61,8 +61,7 @@
 			<div class="container" style="flex:10">
 				<div class="greeting"
 					style="flex:4; text-align: center; align-items:center; display: flex">
-					<span class="greetingText" style="margin:50% auto; text-align: center">Hi! <br />
-						I'm Nhut Duy.</span>
+					<span class="greetingText" style="margin:50% auto; text-align: center">Hi!</span>
 				</div>
 				<div style="flex:8"></div>
 			</div>
